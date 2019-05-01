@@ -1,3 +1,5 @@
+# Christopher Soscia | ECO-101 Final Project
+
 # This is my final project, This is an algorithm that will (somewhat) predict the future GDP per capita of the united states.
 # The initial data is based of numbers from google's data charts [ https://www.google.com/publicdata/explore?ds=d5bncppjof8f9_&met_y=ny_gdp_pcap_cd&idim=country:USA:GBR:CAN&hl=en&dl=en ]
 # The latest data was from 2017, therefore thats why it starts from 2017
